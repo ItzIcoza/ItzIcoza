@@ -13,3 +13,5 @@ I also regret installing Windows 11 on my laptop, if that helps you know me bett
 See ya later!
 
 /Zero
+
+![alt text for screen readers](https://raw.githubusercontent.com/ItzIcoza/ItzIcoza/main/f8701b86feeb432f6a07f0f90b7b6977.jpg "Text to show on mouseover")
